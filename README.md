@@ -26,7 +26,7 @@ The results show that:
 - Using the ABM4 method, the population of Penang was forecast up to **2030**.
 
 ## Conclusion
-The rerusls indicate that numerical multistep methods can provide an effective approach for population growth forecasting. The ABM4-based forecast provides a potential baseline for supporting government planning, including infrastructure development  and resource allocation.
+The results indicate that numerical multistep methods can provide an effective approach for population growth forecasting. The ABM4-based forecast provides a potential baseline for supporting government planning, including infrastructure development  and resource allocation.
 
 ## Tools
 - Wolfram Mathematica
